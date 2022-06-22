@@ -2,6 +2,7 @@ SpendMatters Project
 
 Drink Finder
 
+Install npm packages with: npm install
 Initiate project with: npm start
 
 Project files:
